@@ -119,7 +119,7 @@ Description:
 Doux de Landes is a mild pepper variety from France. It is known for its sweet flavor and low heat level. It is often used in salads, cooking, and roasting.
 
 ## Elephants Ear
-<img src="Elephants ears.jpg" width="300">
+<img src="Elephant ears.jpg" width="300">
 
 Common Name: Elephant’s Ear Pepper
 Scientific Name: Capsicum annuum
