@@ -38,6 +38,7 @@ Description:
 Capsicum frutescens is a chili pepper species known for producing small, upright, and very spicy fruits. It is widely cultivated in tropical regions and commonly used in sauces, seasonings, and spicy dishes.
 
 
+
 ##Capsicum Peppers
 <img src="Capsicum peppers.jpg" width="300">
 
@@ -109,7 +110,7 @@ Chocolate Habanero is a very hot chili pepper variety with dark brown fruit when
 
 
 ## Doux de Landes
-<img src="Douxdelandes.jpg" width="300">
+<img src="Douxdeslandes.jpg" width="300">
 
 Common Name: Doux de Landes Pepper
 Scientific Name: Capsicum annuum
@@ -118,7 +119,7 @@ Description:
 Doux de Landes is a mild pepper variety from France. It is known for its sweet flavor and low heat level. It is often used in salads, cooking, and roasting.
 
 ## Elephants Ear
-<img src="Elephants earS.jpg" width="300">
+<img src="Elephants ears.jpg" width="300">
 
 Common Name: Elephant’s Ear Pepper
 Scientific Name: Capsicum annuum
