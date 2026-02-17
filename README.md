@@ -1,6 +1,6 @@
 ## Chili Peppers
 
-<img src="aji.jpg" width="300">
+<img src="Aji.jpg" width="300">
 
 Common Name: Aji 
 Scientific Name: Chili Peppers
