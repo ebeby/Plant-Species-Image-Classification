@@ -1,0 +1,20 @@
+0 Aji 
+1 Bolivian Rainbow
+2 Brain Strain
+3 Capsicum Frutescens
+4 Capsicum Peppers
+5 Cascabel
+6 Cayenne golden
+7 Cherry peppers
+8 Chilca Peppers
+9 Chilchucle Amarillo
+10 Chocolate Habanero
+11 Doux de landes
+12 Elephants ear
+13 Hidalgo
+14 Infinity
+15 Jalapeno
+16 Liebesapfel
+17 Long green chili
+18 Redhot cherry
+19 Thai Chili
