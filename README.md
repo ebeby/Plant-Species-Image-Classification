@@ -1,4 +1,4 @@
-<img src="images/Aji.jpg" width="300">
+<img src="Aji.jpg" width="300">
 
 Common Name: Aji Chili Pepper
 Scientific Name: Capsicum baccatum
