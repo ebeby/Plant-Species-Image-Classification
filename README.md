@@ -196,3 +196,17 @@ Scientific Name: Capsicum frutescens
 
 Description:
 Thai chili is a small but very spicy pepper widely used in Thai and Southeast Asian dishes. It is known for its strong heat and sharp flavor. The peppers are commonly used fresh, dried, or in chili paste.
+
+---
+1. How did the number of images per class affect your model’s accuracy?
+-If a chili type has more images, the model learns better so accuracy becomes higher. If it has few images, accuracy becomes lower.
+2. Which plant species were most commonly misclassified and why?
+-Chili peppers like Cayenne, Thai Chili, and Long Green Chili were often misclassified because they look very similar in shape and color.
+3. How did changing the epochs, batch size, or learning rate affect the training results?
+-More epochs improved accuracy but too many caused overfitting.
+Wrong batch size or learning rate made training unstable and accuracy lower.
+4. What challenges did you encounter during dataset collection and labeling?
+-Some chili types had few pictures, and some images were blurred or had different backgrounds. Also, some chili peppers are hard to label because they look alike.
+5. If you improve your model, what will you change and why?
+-I will add more images, balance the dataset, and use data augmentation (rotate, zoom, change brightness) to improve accuracy.
+
