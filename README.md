@@ -44,8 +44,8 @@ Capsicum frutescens is a chili pepper species known for producing small, upright
 ---
 
 
-##Capsicum Peppers
-<img src="Capsicum peppers.jpg" width="350">
+## Capsicum Peppers
+<img src="Capsicum peppers.jpg" width="300">
 
 Common Name: Capsicum Pepper
 Scientific Name: Capsicum spp.
