@@ -219,6 +219,120 @@ Scientific Name: Capsicum frutescens
 Description:
 Thai chili is a small but very spicy pepper widely used in Thai and Southeast Asian dishes. It is known for its strong heat and sharp flavor. The peppers are commonly used fresh, dried, or in chili paste.
 
+---
+
+## Screenshot 2026-02-17 113634
+<img src="Screenshot 2026-02-17 113634.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 113654
+<img src="Screenshot 2026-02-17 113654.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 113726
+<img src="Screenshot 2026-02-17 113726.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 113800
+<img src="Screenshot 2026-02-17 113800.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 113822
+<img src="Screenshot 2026-02-17 113822.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 113927
+<img src="Screenshot 2026-02-17 113927.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 114051
+<img src="Screenshot 2026-02-17 114051.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115009
+<img src="Screenshot 2026-02-17 115009.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115139
+<img src="Screenshot 2026-02-17 115139.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115205
+<img src="Screenshot 2026-02-17 115205.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115228
+<img src="Screenshot 2026-02-17 115228.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115250
+<img src="Screenshot 2026-02-17 115250.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115309
+<img src="Screenshot 2026-02-17 115309.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115328
+<img src="Screenshot 2026-02-17 115328.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115354
+<img src="Screenshot 2026-02-17 115354.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115412
+<img src="Screenshot 2026-02-17 115412.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115436
+<img src="Screenshot 2026-02-17 115436.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115501
+<img src="Screenshot 2026-02-17 115501.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115600
+<img src="Screenshot 2026-02-17 115600.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115627
+<img src="Screenshot 2026-02-17 115627.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 115823
+<img src="Screenshot 2026-02-17 115823.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 121224
+<img src="Screenshot 2026-02-17 121224.png" width="300">
+
+---
+
+## Screenshot 2026-02-17 131745
+<img src="Screenshot 2026-02-17 131745.png" width="300">
 
 ---
 1. How did the number of images per class affect your model’s accuracy?
